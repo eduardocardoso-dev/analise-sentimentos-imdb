@@ -1,0 +1,13 @@
+# Byte-compiled / caches
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Dados pesados
+data/*.csv
+data/*.zip
+
+# arquivos de ambiente
+.env
