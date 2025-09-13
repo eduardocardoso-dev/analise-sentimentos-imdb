@@ -7,7 +7,7 @@ Projeto contendo análise de sentimentos no dataset de 50k avaliações de filme
 ```
 analise-sentimentos-imdb/
 ├── data/                  # Dados do projeto (pequenas amostras ou links)
-├──    # Notebook principal
+├── main_analise_sentimentos.ipynb  # Notebook principal
 ├── requirements.txt       # Dependências do projeto
 ├── .gitignore             # Arquivos ignorados pelo Git
 └── README.md              # Este arquivo
