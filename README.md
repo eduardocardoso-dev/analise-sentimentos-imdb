@@ -7,7 +7,7 @@ Projeto contendo análise de sentimentos no dataset de 50k avaliações de filme
 ```
 analise-sentimentos-imdb/
 ├── data/                  # Dados do projeto (pequenas amostras ou links)
-├── prova03_Vfinal.ipynb   # Notebook principal
+├──    # Notebook principal
 ├── requirements.txt       # Dependências do projeto
 ├── .gitignore             # Arquivos ignorados pelo Git
 └── README.md              # Este arquivo
@@ -15,8 +15,8 @@ analise-sentimentos-imdb/
 
 ## Dataset
 
-O dataset original **não está incluído** no repositório por ser grande (>100MB).  
-Faça download em: [COLE O LINK AQUI](COLE_O_LINK_DO_DATASET)  
+Se ocorrer algum problema com o dataset, baixe-o diretamente.  
+Faça download em: [https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download]  
 Depois coloque o CSV dentro da pasta `data/`.
 
 ## Uso
